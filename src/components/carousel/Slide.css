@@ -1,0 +1,16 @@
+.slide {
+  display: inline-block;
+  height: 500px;
+  width: 100%;
+  z-index: -1;
+  background-position: center;
+  padding: 10.2%;
+}
+.cat-image {
+  display: inline-block;
+  height: 500px;
+  width: 100%;
+  z-index: -1;
+  background-position: center;
+  padding: 10%;
+}
